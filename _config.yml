@@ -1,0 +1,28 @@
+name: Thomas T. Cat
+favicon: null
+layout_spectrum: 0.02133703650906682
+typography_spectrum: 0.8250942272134125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8481250442564487
+  lightness: 0.8174151035491377
+  saturation: 0.830248627346009
+  rhythmicContrast: 0.31254905625246465
+purpose: []
