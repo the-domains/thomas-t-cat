@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thomas T. Cat]]></title>
         <description><![CDATA[Thomas T. Cat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thomas-t-cat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 09:04:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 08:33:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thomas-t-cat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Today I slept, yesterday I slept, tomorrow, I'm penciled in to sleep</p>]]></description>
+            <link>https://thegrid.ai/thomas-t-cat/0a5d6599-2d43-4053-b6cb-1c1ec13f5075/index.html</link>
+            <guid isPermaLink="false">0a5d6599-2d43-4053-b6cb-1c1ec13f5075</guid>
+            <pubDate>Sun, 24 Jan 2016 08:33:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b83685e-2ae6-44e9-b7c0-960b704333a5.jpg">]]></description>
-            <link>undefinedd4a51a20-90f2-4191-963e-b0fca11c9d7a/index.html</link>
+            <link>https://thegrid.ai/thomas-t-cat/d4a51a20-90f2-4191-963e-b0fca11c9d7a/index.html</link>
             <guid isPermaLink="false">d4a51a20-90f2-4191-963e-b0fca11c9d7a</guid>
             <pubDate>Fri, 22 Jan 2016 09:04:07 GMT</pubDate>
         </item>
